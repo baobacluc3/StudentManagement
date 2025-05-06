@@ -1,0 +1,5 @@
+git add *.cs
+git add *.resx
+git add *.config
+git add *.csproj
+git add Properties/
